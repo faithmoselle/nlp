@@ -5,6 +5,9 @@ LANGUAGE: Python 3
 TOPIC: Natural Language Processing (NLP) - Tokenization
 TECH STACK: NLTK, spaCy, Google Colab
 
+AUTHOR: Faith Paule
+DATE: 
+
 DESCRIPTION:
 Demonstrates word tokenization using two major NLP libraries:
 - NLTK: Comprehensive, educational, many corpora
